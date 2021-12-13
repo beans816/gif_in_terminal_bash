@@ -25,3 +25,8 @@ make sure the gif frame files are in the same directory of your script
  to convert image to braille: https://505e06b2.github.io/Image-to-Braille/
  
  to convert image to ascii: https://cloudapps.herokuapp.com/imagetoascii/
+
+
+# frame by frame custom delay speed
+
+see custom_delay.sh
